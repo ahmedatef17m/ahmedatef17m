@@ -30,7 +30,9 @@ Stay tuned!
 ---
 
 ## Get in Touch 📬
-- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-atef-5a3767272)  
+- 💼 [LinkedIn](www.linkedin.com/in/ahmedatefmahmoud)
+
+
 - 📧 **ahmedatef15t@gmail.com**
 
 ---
