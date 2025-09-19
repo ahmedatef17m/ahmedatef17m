@@ -1,7 +1,4 @@
-<!-- صورة شخصية دائرية في الأعلى -->
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQECa00CesDfCQ/profile-displayphoto-scale_400_400/B4DZh4UuXCHYAg-/0/1754365357831?e=1759363200&v=beta&t=fQk9jsSw_EiVAjvHwXpSn6d-PcmGfIrHh9rlROhWt-E" alt="Ahmed Atef Profile Picture" width="200" style="border-radius:50%;" />
-</p>
+
 
 # Hi there, I'm Ahmed Atef! 👋
 
